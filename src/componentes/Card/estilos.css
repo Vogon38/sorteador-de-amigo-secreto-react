@@ -1,0 +1,23 @@
+/* src/componentes/Card/estilos.css */
+.card {
+    background: #FFF9EB;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 64px 64px 0px 0px;
+    padding: 80px;
+    display: flex;
+    flex: 1;
+    margin-top: -32px;
+    justify-content: center;
+}
+
+h2.start {
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: center;
+    background-image: radial-gradient(circle, #4B69FD, #6f86fc);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
